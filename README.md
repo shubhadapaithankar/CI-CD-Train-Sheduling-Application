@@ -1,6 +1,8 @@
 # cicd-pipeline-train-schedule-kubernetes
 
 This is a simple train schedule app written using nodejs. It is intended to be used as a sample application for a series of hands-on learning activities.
+Structured Application delivery CI/CD pipeline in Jenkins for Automated Deployment using GIT .
+Performed orchestration of application with Kubernetes 3 nodes cluster setup and monitoring with Prometheus..   
 
 ## Running the app
 
